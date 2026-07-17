@@ -11,8 +11,8 @@ const FALLBACK_PROJECTS: Project[] = [
     title: "E-Commerce Full-Stack",
     description: "Plataforma de e-commerce completa com carrinho, pagamentos Stripe e painel admin. Frontend em Next.js 14 com App Router, backend em FastAPI com PostgreSQL.",
     tech: ["Next.js", "FastAPI", "PostgreSQL", "Stripe", "Docker"],
-    github_url: "https://github.com/seuusername/ecommerce",
-    live_url: "https://ecommerce-demo.vercel.app",
+    github_url: "https://github.com/thiagotg75/ecommerce.git",
+    live_url: "https://github.com/thiagotg75/ecommerce.git",
     featured: true,
     created_at: "2024-01-01",
   },
@@ -192,7 +192,7 @@ export default function ProjectsSection() {
         <div className="animate-on-scroll mb-8">
           <span className="font-mono text-accent-cyan text-sm">// projetos</span>
           <h2 className="text-4xl font-bold mt-2">
-            Meu <span className="text-gradient">Trabalho</span>
+            Meus <span className="text-gradient">Trabalhos Publicos</span>
           </h2>
         </div>
 

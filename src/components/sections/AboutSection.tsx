@@ -11,7 +11,7 @@ const stats = [
 ];
 
 const facts = [
-  { icon: MapPin, text: "Blumenau, Santa Catarina, Brasil" },
+  { icon: MapPin, text: "Itajaí, Santa Catarina, Brasil" },
   { icon: Coffee, text: "Movido a café e código limpo" },
   { icon: Rocket, text: "Sempre aprendendo novas tecnologias" },
   { icon: BookOpen, text: "Apaixonado por open source" },

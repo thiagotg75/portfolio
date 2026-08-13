@@ -18,17 +18,17 @@ export default function Footer() {
             {[
               {
                 icon: Github,
-                href: "https://github.com/seuusername",
+                href: "https://github.com/thiagotg75",
                 label: "GitHub",
               },
               {
                 icon: Linkedin,
-                href: "https://linkedin.com/in/seuusername",
+                href: "https://linkedin.com/in/thiago-diovanne",
                 label: "LinkedIn",
               },
               {
                 icon: Mail,
-                href: "mailto:seu@email.com",
+                href: "mailto:thiagodiovennne@gmail.com",
                 label: "Email",
               },
             ].map(({ icon: Icon, href, label }) => (
@@ -50,7 +50,7 @@ export default function Footer() {
           <p className="text-sm text-text-muted flex items-center justify-center gap-1">
             Feito com{" "}
             <Heart className="w-3 h-3 text-red-500 fill-red-500 inline" /> por{" "}
-            <span className="text-accent-purple font-medium">Seu Nome</span>
+            <span className="text-accent-purple font-medium">Thiago Diovanne</span>
           </p>
         </div>
       </div>

@@ -87,7 +87,7 @@ export default function HeroSection() {
 
           <h1 className="text-5xl lg:text-6xl font-bold leading-tight mb-4">
             Olá, eu sou{" "}
-            <span className="text-gradient block">Seu Nome</span>
+            <span className="text-gradient block">Thiago Diovanne</span>
           </h1>
 
           <div className="h-8 mb-6">
@@ -127,12 +127,12 @@ export default function HeroSection() {
             {[
               {
                 icon: Github,
-                href: "https://github.com/seuusername",
+                href: "https://github.com/thiagotg75",
                 label: "GitHub",
               },
               {
                 icon: Linkedin,
-                href: "https://linkedin.com/in/seuusername",
+                href: "https://linkedin.com/in/thiago-diovanne",
                 label: "LinkedIn",
               },
             ].map(({ icon: Icon, href, label }) => (

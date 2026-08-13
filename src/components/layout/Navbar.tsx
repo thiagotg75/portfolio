@@ -85,8 +85,7 @@ export default function Navbar() {
           })}
           <li>
             <a
-              href="https://github.com/seuusername"
-              target="_blank"
+              href="https://github.com/thiagotg75"
               rel="noopener noreferrer"
               className="ml-2 px-4 py-2 rounded-lg bg-accent-purple text-white text-sm font-medium hover:bg-accent-purple/80 transition-colors duration-200"
             >

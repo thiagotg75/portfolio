@@ -83,20 +83,20 @@ export default function ContactSection() {
               {
                 icon: Mail,
                 label: "Email",
-                value: "seu@email.com",
-                href: "mailto:seu@email.com",
+                value: "thiagodiovennne@gmail.com",
+                href: "mailto:thiagodiovennne@gmail.com",
               },
               {
                 icon: Github,
                 label: "GitHub",
-                value: "github.com/seuusername",
-                href: "https://github.com/seuusername",
+                value: "github.com/thiagotg75",
+                href: "https://github.com/thiagotg75",
               },
               {
                 icon: Linkedin,
                 label: "LinkedIn",
-                value: "linkedin.com/in/seuusername",
-                href: "https://linkedin.com/in/seuusername",
+                value: "linkedin.com/in/thiago-diovanne",
+                href: "https://linkedin.com/in/thiago-diovanne",
               },
             ].map(({ icon: Icon, label, value, href }) => (
               <a

@@ -205,4 +205,3 @@ MIT License — use, modifique e distribua à vontade!
 
 ---
 
-> Feito com 💜 — Sinta-se livre para usar como base para o seu portfólio!

@@ -58,7 +58,7 @@ const FALLBACK_PROJECTS: Project[] = [
     title: "CLI Dev Tools",
     description: "Conjunto de ferramentas de linha de comando para automação de workflows de desenvolvimento: scaffolding, deploy, e gestão de ambientes.",
     tech: ["Python", "Click", "Docker", "Bash"],
-    github_url: "https://github.com/seuusername/dev-cli",
+    github_url: "https://github.com/thiagotg75/CLI-Dev-Tools.git",
     featured: false,
     created_at: "2024-06-01",
   },
